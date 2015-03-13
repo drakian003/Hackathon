@@ -12,7 +12,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		
-		Log.d("km","test filip ekekekekekek");
+		Log.d("km","test filip Kamil");
 	}
 
 	@Override
